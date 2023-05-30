@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1684974557 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\rectangulo2\funciones.cpp
+	<iostream>
+	"Rectangulo.h"
+	<string>
+	<iomanip>
+
+1684976109 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\rectangulo2\main.cpp
+	<iostream>
+	"Rectangulo.h"
+	<string>
+	<iomanip>
+	<stdio.h>
+
+1684974809 c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\rectangulo2\rectangulo.h
+	<string>
+

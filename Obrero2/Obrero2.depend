@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685310447 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\obrero2\funciones.cpp
+	<iostream>
+	"Obrero.h"
+	<string>
+	<iomanip>
+
+1685310416 c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\obrero2\obrero.h
+	<string>
+
+1685310341 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\obrero2\main.cpp
+	<iostream>
+	"Obrero.h"
+	<string>
+	<iomanip>
+	<stdio.h>
+

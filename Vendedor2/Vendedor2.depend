@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685399765 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\vendedor2\main.cpp
+	<iostream>
+	"Vendedor.h"
+	<string>
+	<iomanip>
+	<stdio.h>
+
+1685399713 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\vendedor2\funciones.cpp
+	<iostream>
+	"Vendedor.h"
+	<string>
+	<iomanip>
+
+1685399298 c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\vendedor2\vendedor.h
+	<string>
+

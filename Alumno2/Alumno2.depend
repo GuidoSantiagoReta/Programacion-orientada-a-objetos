@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685321168 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\alumno2\main.cpp
+	<iostream>
+	"Alumno.h"
+	<string>
+	<iomanip>
+	<stdio.h>
+
+1685319868 c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\alumno2\alumno.h
+	<string>
+
+1685319454 source:c:\users\micaela\desktop\ejercitacion 23 del 5 get y destructores\alumno2\funciones.cpp
+	<iostream>
+	"Alumno.h"
+	<string>
+	<iomanip>
+
