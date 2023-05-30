@@ -7,7 +7,6 @@ using namespace std;
 class Vendedor{
 
       public:
-     //constructor con  parametros
      Vendedor (string nom, float s, float ven, float com );
      Vendedor();
 
